@@ -1,1 +1,7 @@
 # TELCO-CUSTOMER-CHURN-ANALYSIS-NEURAL-NETWORK-PROJECT
+
+I have written a paper to compare two neural network libraries, TensorFlo vs PyTorch.
+While comparing the performances of these libraries, I have conducted customer churn analysis using Telco's data.
+
+In this paper, TensorFlow and PyTorch have been widely discussed. The reason that such libraries has been created, have been connected with the usage and the development of machine learning and artificial intelligence. It has been further discussed how these libraries are using the neural network structure and it’s use cases in the literature have been reviewed as well. A full setup process and how it can be integrated with Anaconda’s Jupyter Notebook and how it can be imported to the notebook for using the libraries with Python have been explained detailly. Furthermore, with the knowledge gained from the tools’ infrastructure and their implementations in the literature, a new implementation have been made for both TensorFlow and PyTorch. Implementation’s scenario and the logic behind it discussed. Comparison of these tools in the implementation phase has been done, changes has been discussed and further research relating to the subject has been described.
+To sum up, TensorFlow and PyTorch have been explained with their technicality, use cases in the literature have been discussed, how it can be used and setup into a certain platform have been shown, how it can be implemented to a scenario have been show cased.
