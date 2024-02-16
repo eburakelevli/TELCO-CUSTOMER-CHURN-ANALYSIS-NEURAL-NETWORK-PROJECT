@@ -1,4 +1,4 @@
-# TELCO-CUSTOMER-CHURN-ANALYSIS-NEURAL-NETWORK-PROJECT
+# TELCO CUSTOMER CHURN ANALYSIS - NEURAL NETWORK PROJECT
 
 I have written a paper to compare two neural network libraries, TensorFlo vs PyTorch.
 While comparing the performances of these libraries, I have conducted customer churn analysis using Telco's data.
